@@ -23,3 +23,5 @@
 
 ![Alt text](image.png) -push
 ![Alt text](image-1.png) -pull
+
+PUSH AND PULL
