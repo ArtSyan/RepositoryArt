@@ -20,3 +20,6 @@
 **Ссылок на источники** - https://ru.wikipedia.org/wiki/Водопад
 
 Изменение
+
+![Alt text](image.png) -push
+![Alt text](image-1.png) -pull
